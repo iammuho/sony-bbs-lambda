@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Dillinger
 
 This demo LAMBDA app was coded in BBS Meting@Sony
@@ -38,3 +39,7 @@ License
 MIT
 
 
+=======
+# sony-bbs-lambda
+Image resizing AWS LAMBDA script
+>>>>>>> 8db8489c19550cb630482dfa3ac8cdcbd4a52a97
